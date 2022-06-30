@@ -1,2 +1,2 @@
-# TCC_Ci-ncia_de_Dados
-TCC Ciência de Dados e big Data - Puc Minas
+# TCC_Ciencia_de_Dados
+TCC Ciencia de Dados e big Data - Puc Minas
